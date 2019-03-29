@@ -1,3 +1,0 @@
-# Kernel SVM Model
-
-
